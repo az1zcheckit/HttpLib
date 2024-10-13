@@ -1,0 +1,5 @@
+D:\projects\HttpLibrary\HttpLib\HttpLib\bin\Debug\HttpLib.dll
+D:\projects\HttpLibrary\HttpLib\HttpLib\bin\Debug\HttpLib.pdb
+D:\projects\HttpLibrary\HttpLib\HttpLib\obj\Debug\HttpLib.csprojResolveAssemblyReference.cache
+D:\projects\HttpLibrary\HttpLib\HttpLib\obj\Debug\HttpLib.dll
+D:\projects\HttpLibrary\HttpLib\HttpLib\obj\Debug\HttpLib.pdb
